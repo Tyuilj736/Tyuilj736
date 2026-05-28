@@ -1,5 +1,2 @@
-## Hi there 👋
-
-<!--![sobre min](https://chatgpt.com/s/m_6a188768ebdc8191b93c5b6a12949475)
-**Tyuilj736/Tyuilj736** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/5ab11cdc-1295-48f6-a65a-9527340b9d59" />
 
